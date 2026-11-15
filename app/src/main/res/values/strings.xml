@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VidWall</string>
+    <string name="wallpaper_description">Видео из галереи как живые обои</string>
+
+    <string name="nav_home">Главная</string>
+    <string name="nav_videos">Видео</string>
+    <string name="nav_settings">Настройки</string>
+
+    <string name="title_videos">Видео</string>
+    <string name="title_settings">Настройки</string>
+
+    <string name="status_no_access">Нет доступа к видео</string>
+    <string name="status_all">Видео в галерее: %1$d</string>
+    <string name="status_selected">Выбрано видео: %1$d</string>
+    <string name="status_hint">Новые видео из галереи подхватываются автоматически, если не включён режим «Только выбранные».</string>
+    <string name="perm_title">Разрешить доступ к видео</string>
+    <string name="perm_sub">Выберите «Разрешить все», иначе новые видео не будут подхватываться сами.</string>
+    <string name="set_title">Установить как обои</string>
+    <string name="set_sub">Откроется системный выбор живых обоев</string>
+
+    <string name="use_selected_title">Только выбранные видео</string>
+    <string name="use_selected_sub">Выключено: играют все видео галереи, новые добавляются сами</string>
+    <string name="shuffle_title">Перемешивать</string>
+    <string name="shuffle_sub">Случайный порядок воспроизведения</string>
+    <string name="add_title">Добавить видео из галереи</string>
+    <string name="add_sub">Выберите одно или несколько</string>
+    <string name="section_list">Выбранные видео</string>
+    <string name="list_empty">Список пуст. Добавьте видео, чтобы редактировать их и играть только их.</string>
+    <string name="entry_deleted">Видео удалено с устройства</string>
+    <string name="entry_whole">Целиком</string>
+    <string name="entry_fit">вписано</string>
+
+    <string name="section_general">Общие</string>
+    <string name="section_perf">Производительность</string>
+    <string name="battery_ok">Работа без ограничений разрешена</string>
+    <string name="battery_need">Разрешить работу без ограничений</string>
+    <string name="battery_sub">Система не должна останавливать VidWall для экономии батареи</string>
+    <string name="powersave_title">Пауза в энергосбережении</string>
+    <string name="powersave_sub">Полностью останавливать обои, пока включено энергосбережение</string>
+    <string name="quality_title">Качество рендеринга: %1$d%%</string>
+    <string name="quality_sub">Кадр рисуется в уменьшенном разрешении и растягивается на экран. 100% — максимальная чёткость, ниже — меньше нагрузка.</string>
+
+    <string name="picker_title">Выберите видео</string>
+    <string name="done_count">Готово (%1$d)</string>
+
+    <string name="editor_title">Редактирование</string>
+    <string name="trim_label">Фрагмент: %1$s – %2$s</string>
+    <string name="speed_label">Скорость: %1$s×</string>
+    <string name="fit_title">Показывать целиком</string>
+    <string name="fit_sub">Без обрезки по краям, с чёрными полосами</string>
+    <string name="save">Сохранить</string>
+    <string name="reset">Сбросить</string>
+    <string name="too_short">Фрагмент слишком короткий</string>
+</resources>
